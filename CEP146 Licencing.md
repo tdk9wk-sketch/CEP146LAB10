@@ -15,7 +15,7 @@
 
 ##**3. Table**
 | Project | License Type | Commercial Use? | Attribution Required? | Modify And Redistribute? |
-|*********|**************|*****************|***********************|**************************|
+|---------|--------------|-----------------|-----------------------|--------------------------|
 | Awesome Machine Learning | Unspecified Creative Commons Reference | Unclear | Unclear | Unclear
 | Azure ML Notebooks | MIT | Yes | Yes | Yes |
 | ML For Trading | MIT | Yes | Yes | Yes |
